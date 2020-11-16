@@ -8,4 +8,8 @@ master的修改哦:abcd
 
 赤壁的修改
 
+<<<<<<< HEAD
 test要修改
+=======
+我是李光洙,我要修改
+>>>>>>> 5b32ecf81c9951a6c5efaf2251fb259c3d6de51e
